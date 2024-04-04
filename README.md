@@ -1,2 +1,2 @@
 # PATCH
-Azure_Arm_Bicepe
+Azure_Arm_Bicep
